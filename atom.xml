@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://lqwebsite.github.io/"/>
+  <link href="http://yoursite.com/"/>
   <updated>2019-06-26T07:37:09.469Z</updated>
-  <id>http://lqwebsite.github.io/</id>
+  <id>http://yoursite.com/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>why404</title>
-    <link href="http://lqwebsite.github.io/2019/06/26/why404/"/>
-    <id>http://lqwebsite.github.io/2019/06/26/why404/</id>
+    <link href="http://yoursite.com/2019/06/26/why404/"/>
+    <id>http://yoursite.com/2019/06/26/why404/</id>
     <published>2019-06-26T07:37:09.000Z</published>
     <updated>2019-06-26T07:37:09.469Z</updated>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>hello190626</title>
-    <link href="http://lqwebsite.github.io/2019/06/26/hello190626/"/>
-    <id>http://lqwebsite.github.io/2019/06/26/hello190626/</id>
+    <link href="http://yoursite.com/2019/06/26/hello190626/"/>
+    <id>http://yoursite.com/2019/06/26/hello190626/</id>
     <published>2019-06-26T06:06:20.000Z</published>
     <updated>2019-06-26T06:06:20.301Z</updated>
     
@@ -46,8 +46,8 @@
   
   <entry>
     <title>test_my_site</title>
-    <link href="http://lqwebsite.github.io/2019/06/26/test-my-site/"/>
-    <id>http://lqwebsite.github.io/2019/06/26/test-my-site/</id>
+    <link href="http://yoursite.com/2019/06/26/test-my-site/"/>
+    <id>http://yoursite.com/2019/06/26/test-my-site/</id>
     <published>2019-06-26T04:49:21.000Z</published>
     <updated>2019-06-26T04:49:21.779Z</updated>
     
@@ -60,8 +60,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://lqwebsite.github.io/2019/06/26/hello-world/"/>
-    <id>http://lqwebsite.github.io/2019/06/26/hello-world/</id>
+    <link href="http://yoursite.com/2019/06/26/hello-world/"/>
+    <id>http://yoursite.com/2019/06/26/hello-world/</id>
     <published>2019-06-26T04:20:57.179Z</published>
     <updated>2019-06-26T04:20:57.179Z</updated>
     
